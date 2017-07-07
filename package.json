@@ -1,0 +1,27 @@
+{
+  "name": "pkijs_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/microshine/pkijs_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/microshine/pkijs_test/issues"
+  },
+  "homepage": "https://github.com/microshine/pkijs_test#readme",
+  "dependencies": {
+    "@types/asn1js": "0.0.1",
+    "@types/node": "^8.0.8",
+    "asn1js": "^2.0.15",
+    "node-webcrypto-ossl": "^1.0.30",
+    "pkijs": "^2.0.59"
+  }
+}
